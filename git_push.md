@@ -23,7 +23,7 @@ git remote add origin https://github.com/jiangyoubushiyou/example.git
 
 http连接换成自己创建的仓库url地址，https://github.com/github用户名/仓库名.git
 
-##第六步 上传代码到github远程仓库
+## 第六步 上传代码到github远程仓库
 ```
 git push origin master
 ```
