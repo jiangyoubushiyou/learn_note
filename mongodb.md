@@ -2,6 +2,7 @@
 安装路径：`/usr/bin/`
 
 需要自己在`/usr`路径下创建一个data文件夹，进入data文件夹创建一个db文件夹
+![](https://raw.githubusercontent.com/jiangyoubushiyou/learn_note/master/img/mongo.png)
 ## mongodb启动
 要cd到安装路径`/usr/bin`下运行命令
 
