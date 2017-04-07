@@ -17,7 +17,6 @@ sudo reboot
 ```
 
 输入密码重启
-<<<<<<< HEAD
 
 # 用ubuntu shell启动mongodb
 ## 第一步 编写shell脚本
@@ -53,6 +52,3 @@ sudo reboot
     /bin/sh start_mongodb.sh
 
 这种方式运行的脚本，不需要在第一行指定解释器信息，写了也没用。
-
-=======
->>>>>>> origin/master
