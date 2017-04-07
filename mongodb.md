@@ -2,6 +2,7 @@
 安装路径：`/usr/bin/`
 
 需要自己在`/usr`路径下创建一个data文件夹，进入data文件夹创建一个db文件夹
+![](https://raw.githubusercontent.com/jiangyoubushiyou/learn_note/master/img/mongo.png)
 ## mongodb启动
 要cd到安装路径`/usr/bin`下运行命令
 
@@ -16,6 +17,7 @@ sudo reboot
 ```
 
 输入密码重启
+<<<<<<< HEAD
 
 # 用ubuntu shell启动mongodb
 ## 第一步 编写shell脚本
@@ -52,3 +54,5 @@ sudo reboot
 
 这种方式运行的脚本，不需要在第一行指定解释器信息，写了也没用。
 
+=======
+>>>>>>> origin/master
