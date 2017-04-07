@@ -1,7 +1,7 @@
 # 本地项目文件夹已经存在，git上传
 ## 第一步：创建远端仓库
 登录**github**，新建一个仓库，**“New repository”**，可以得到仓库的https地址**example：https://github.com/jiangyoubushiyou/example.git**
-![](img/step1.png)
+![](learn_note/img/step1.png)
 ## 第二步 建立本地git仓库
 在本地项目文件夹的目录下，执行git命令
 
